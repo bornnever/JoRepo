@@ -21,7 +21,7 @@ namespace WinC_Test
             DateTime _CurrentTime = DateTime.Now;
             Boolean sTime;
             sTime= TimerDayAndTimeCheck("Thursday","0","23");
-
+            MessageBox.Show("ss");
         }
 
          private Boolean TimerDayAndTimeCheck (String SettingNameDaysofWeek, String SettingNameHours,String SettingDays)

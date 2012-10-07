@@ -1,0 +1,28 @@
+commit 888b313488dc42f05126bfc5bf67c04e1a2d435e
+Author: JothishNair <jothishrnair@gmail.com>
+Date:   Sun Oct 7 19:29:00 2012 -0400
+
+    dasdasd
+    dasdasdd:C
+
+diff --git a/TrackRead.txt b/TrackRead.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/WinC_Test.suo b/WinC_Test.suo
+index cf924af..7945a31 100644
+Binary files a/WinC_Test.suo and b/WinC_Test.suo differ
+diff --git a/WinC_Test/Form1.cs b/WinC_Test/Form1.cs
+index e361ac3..7616caa 100644
+--- a/WinC_Test/Form1.cs
++++ b/WinC_Test/Form1.cs
+@@ -19,8 +19,8 @@ namespace WinC_Test
+         private void button1_Click(object sender, EventArgs e)
+         {
+             DateTime _CurrentTime = DateTime.Now;
+-            Boolean s;
+-            s= TimerDayAndTimeCheck("Thursday","0","23");
++            Boolean sTime;
++            sTime= TimerDayAndTimeCheck("Thursday","0","23");
+ 
+         }
+ 
