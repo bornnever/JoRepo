@@ -1,0 +1,9 @@
+E:\Projects\Learn\WinC_Test\WinC_Test\bin\Debug\WinC_Test.exe
+E:\Projects\Learn\WinC_Test\WinC_Test\bin\Debug\WinC_Test.pdb
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\WinC_Test.Form1.resources
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\WinC_Test.Properties.Resources.resources
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\WinC_Test.exe
+E:\Projects\Learn\WinC_Test\WinC_Test\obj\x86\Debug\WinC_Test.pdb
