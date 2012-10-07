@@ -19,8 +19,8 @@ namespace WinC_Test
         private void button1_Click(object sender, EventArgs e)
         {
             DateTime _CurrentTime = DateTime.Now;
-            Boolean s;
-            s= TimerDayAndTimeCheck("Thursday","0","23");
+            Boolean sTime;
+            sTime= TimerDayAndTimeCheck("Thursday","0","23");
 
         }
 
