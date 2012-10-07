@@ -22,6 +22,7 @@ namespace WinC_Test
             Boolean sTime;
             sTime= TimerDayAndTimeCheck("Thursday","0","23");
             MessageBox.Show("ss");
+            //Please commit
         }
 
          private Boolean TimerDayAndTimeCheck (String SettingNameDaysofWeek, String SettingNameHours,String SettingDays)
