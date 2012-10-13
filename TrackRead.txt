@@ -1,1 +1,2 @@
-THis is a new comment;
+THis is a new comment;New line added
+extra line
