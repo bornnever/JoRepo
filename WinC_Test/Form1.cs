@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Xml;
 
 namespace WinC_Test
 {
@@ -22,7 +23,7 @@ namespace WinC_Test
             Boolean sTime;
             sTime= TimerDayAndTimeCheck("Thursday","0","23");
             MessageBox.Show("ss");
-            //Please commit
+            
         }
 
          private Boolean TimerDayAndTimeCheck (String SettingNameDaysofWeek, String SettingNameHours,String SettingDays)
@@ -52,7 +53,20 @@ namespace WinC_Test
             catch (Exception e)
             { throw e; }
             }
+
+         private void LoadXML()
+         {
+             String sXML;
+             sXML = "<x><n>Jo</n><a>3</a></x>";
+
+             XmlDocument xdoc = new XmlDocument();
+             
+            // xdoc.LoadXml(sXML);
+             
+
+         }
         }
          
+
     }
  
